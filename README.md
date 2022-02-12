@@ -74,4 +74,5 @@ nos muestra un json de los anuncios existentes.
 ## Despliegue en servidor:
 
 DNS del servidor para acceder al backend en node: ec2-54-89-100-254.compute-1.amazonaws.com
+
 IP del servidor para acceder a la práctica de react: 54.89.100.254
